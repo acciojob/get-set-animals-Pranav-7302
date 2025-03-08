@@ -24,9 +24,9 @@ class Cat extends Animal {
 }
 
 // Do not change the code below this line
-// window.Animal = Animal;
-// window.Dog = Dog;
-// window.Cat = Cat;
+window.Animal = Animal;
+window.Dog = Dog;
+window.Cat = Cat;
 
 const myCat = new Cat('Siamese');
 myCat.makesound();
